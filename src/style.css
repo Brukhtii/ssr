@@ -1,3 +1,15 @@
+.modified-components {
+  display: flex;
+}
+
+.rendering-type-title {
+  text-align: center;
+}
+
+.components-qty {
+  text-align: center;
+}
+
 .navigation-bar {
     width: 100%;
   }
